@@ -27,6 +27,3 @@ print(f'Tunjangan : {tunjangan}')
 print(f'Gaji kotor : {gajiKotor}')
 print(f'Pajak : {pajak}')
 print(f'Total pendapatan = {totalPendapatan}')
-    
-    
-    
