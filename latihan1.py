@@ -6,3 +6,7 @@ Ketersediaan = True
 
 List_Informasi = [Judul_buku, Tahun_terbit, Harga, Penulis, Ketersediaan]
 print(List_Informasi)
+
+
+
+# haloooo
