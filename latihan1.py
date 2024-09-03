@@ -8,5 +8,5 @@ print(List_Informasi)
 print('Makanan putra : adalah lazuardi')
 
 
-
+# okok
 # haloooo
